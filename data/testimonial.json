@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "rating": 4,
+        "comment": "Lorem ipsum dolor sit amet, consectetur ad-zzz-ing elit. Proin vel urna at metus tempor mattis, or not, whatever.",
+        "author": "X_AE_A-13",
+        "designation": "Product Designer, slothUI",
+        "profile_image": "/assets/profile-image/Avatar1.png"
+    },
+    {
+        "id": 2,
+        "rating": 3,
+        "comment": "Posuere una nec tincidunt praesent semper feugiat nibh sed. Velit dignissim sodales ut eu.",
+        "author": "Azunyan U. Wu",
+        "designation": "CEO, nextlife.ai",
+        "profile_image": "/assets/profile-image/Avatar2.png"
+    },
+    {
+        "id": 3,
+        "rating": 2,
+        "comment": "Sit amet est placerat in. Blandit cursus risus at ultrices mi tempus imperdiet. Volutpat commodo sed egestas egestas fringilla phasellus. Tincidunt eget nullam non nisi.",
+        "author": "Mechatronics Yi",
+        "designation": "CTO, hn4win.ai",
+        "profile_image": "/assets/profile-image/Avatar3.png"
+    },
+    {
+        "id": 4,
+        "rating": 4,
+        "comment": "Nisi porta lorem mollis aliquam ut porttitor leo. Sed odio morbi quis commodo. Arcu non odio euismod lacinia at quis. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae.",
+        "author": "Oarack Babame",
+        "designation": "Former President of US",
+        "profile_image": "/assets/profile-image/Avatar4.png"
+    },
+    {
+        "id": 5,
+        "rating": 5,
+        "comment": "Accumsan tortor posuere ac ut consequat. Quis varius quam quisque id diam vel. Commodo odio aenean sed adipiscing diam donec adipiscing. Vel pharetra vel turpis nunc eget.",
+        "author": "Saylor Twitt",
+        "designation": "Famous Singer",
+        "profile_image": "/assets/profile-image/Avatar5.png"
+    },
+    {
+        "id": 6,
+        "rating": 4,
+        "comment": "Venenatis cras sed felis eget velit aliquet. Velit scelerisque in dictum non consectetur. Felis eget velit aliquet sagittis. Ultricies integer quis auctor elit sed vulputate mi.",
+        "author": "Asuna Yuuki",
+        "designation": "Virtual Swordsman",
+        "profile_image": "/assets/profile-image/Avatar6.png"
+    },
+    {
+        "id": 7,
+        "rating": 3,
+        "comment": "Sagittis eu volutpat odio facilisis mauris sit amet massa. Urna et pharetra pharetra massa.",
+        "author": "Boe Jiden",
+        "designation": "Former President Of Canada",
+        "profile_image": "/assets/profile-image/Avatar7.png"
+    },
+    {
+        "id": 8,
+        "rating": 4,
+        "comment": "Cras fermentum odio eu feugiat pretium nibh ipsum consequat nisl. Nec nam aliquam sem et tortor consequat id porta nibh. Viverra suspendisse. Lacus sed viverra tellus in hac habitasse platea dictumst. Elit at imperdiet dui accumsan.",
+        "author": "Vermilion D. Gray",
+        "designation": "CEO, hacklife.ai",
+        "profile_image": "/assets/profile-image/Avatar8.png"
+    },
+    {
+        "id": 9,
+        "rating": 5,
+        "comment": "Viverra accumsan in nisl nisi scelerisque eu. Vitae congue eu consequat ac felis donec.",
+        "author": "Zuckman Wu",
+        "designation": "CEO, tech4life.ai",
+        "profile_image": "/assets/profile-image/Avatar9.png"
+    }
+]

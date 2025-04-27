@@ -1,0 +1,38 @@
+[
+    {
+        "id": "f1",
+        "title": "Lazy Efficient",
+        "description": "A cras semper auctor neque. Proin libero nunc consequat interdum varius sit. Libero volutpat sed cras ornare arcu dui vivamus arcu felis.",
+        "icon": "/assets/features-logo/Lightning.png"
+    },
+    {
+        "id": "f2",
+        "title": "Streamlined Process",
+        "description": "Montes nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Orci porta non pulvinar neque laoreet.",
+        "icon": "/assets/features-logo/GearSix.png"
+    },
+    {
+        "id": "f3",
+        "title": "Minimum Effort",
+        "description": "Tincidunt eget nullam non nisi est sit amet facilisis magna. Rhoncus dolor purus non enim praesent elementum.",
+        "icon": "/assets/features-logo/Broom.png"
+    },
+    {
+        "id": "f4",
+        "title": "Absolutely Easy To Use",
+        "description": "Rutrum quisque non tellus orci ac. Purus viverra accumsan in nisl. Id interdum velit laoreet id donec ultrices adisipicing elit.",
+        "icon": "/assets/features-logo/ChartLine.png"
+    },
+    {
+        "id": "f5",
+        "title": "Just Sleep & Chill",
+        "description": "Bibendum est ultricies integer quis auctor elit. Ultrices in iaculis nunc sed. A scelerisque purus semper eget. Facilisi morbi tempus iaculi.",
+        "icon": "/assets/features-logo/BowlFood.png"
+    },
+    {
+        "id": "f6",
+        "title": "Don’t Worry About Life",
+        "description": "Pharetra diam sit amet nisl suscipit adipiscing bibendum est. Risus ultricies tristique nulla aliquet enim tortor.",
+        "icon": "/assets/features-logo/SmileyWink.png"
+    }
+]

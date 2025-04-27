@@ -1,0 +1,61 @@
+#FQA-container {
+  padding-top: 96px;
+  padding-bottom: 96px;
+  margin: 0 auto;
+}
+
+.FQA-section {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.FQA-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+
+.accordion {
+  max-width: 800px;
+}
+
+.accordion .contentbx {
+  position: relative;
+  padding: 10px 20px;
+}
+
+.accordion .contentbx .label {
+  position: relative;
+  padding: 10px;
+  color: black;
+  background-color: aqua;
+  cursor: pointer;
+}
+
+.accordion .contentbx .label::before {
+  content: url("/assets/CaretDown.png");
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+}
+.accordion .contentbx .label {
+  font-size: 16px;
+  font-weight: 800;
+  color: #334155;
+}
+
+.accordion .contentbx .content {
+  position: relative;
+  background-color: brown;
+  height: 0;
+  overflow: hidden;
+  transition: 0.5s ease;
+  overflow-y: auto;
+}
+
+.accordion .contentbx.active .content {
+  height: 100px;
+}

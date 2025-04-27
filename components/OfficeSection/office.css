@@ -1,0 +1,50 @@
+.office-section {
+  max-width: 1216px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  gap: 64px;
+  margin: 64px auto;
+}
+
+.office-section-info {
+  max-width: 1216px;
+  display: flex;
+  flex-direction: column;
+  gap: 22.12px;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.office-card-container {
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.office-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 8px;
+  background-color: #ffffff;
+  border-radius: 1.5rem; /* 24px */
+  border: 1px solid #e2e8f0;
+  padding: 1.438rem;
+  width: 231.78px;
+}
+
+.office-card > h5 {
+  color: #1e293b; /* Gray 700 */
+  font-size: 1.25rem; /* 20px */
+  font-weight: 800;
+  line-height: 28px;
+}
+
+.office-card > p {
+  color: #1e293b;
+  font-size: 1rem; /* 16px */
+  font-weight: 400;
+  line-height: 26px; /* 160% */
+}
